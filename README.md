@@ -1,6 +1,6 @@
 # Generator Cheatsheet
 
-Minimal, functional examples of generators in Python3.
+Minimal, functioning examples of generators in Python3.
 
 
 ## Background
