@@ -3,6 +3,13 @@
 Minimal, functional examples of generators in Python3.
 
 
+## Background
+
+Example of [iterable classes](iterable_class.py) and [iterable functions](iterable_function.py) using generators.
+
+Content for [this blog post](https://blog.kevinwmatthews.com/python-generator-cheat-sheet/).
+
+
 ## Setup
 
 Requries python3. For convenience, you can create a virtual environment:
