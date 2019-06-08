@@ -25,6 +25,9 @@ but stock Python3 is sufficient.
 ## Run
 
 ```bash
+$ python3 iterable_class.py
+$ python3 iterable_function.py
+# or
 (venv) $ python iterable_class.py
 (venv) $ python iterable_function.py
 ```
