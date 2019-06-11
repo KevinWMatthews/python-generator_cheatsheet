@@ -6,9 +6,8 @@ class Iterable:
         for item in self.collection:
             yield item
 
-
 collection = [7, 8, 9]
 iterable = Iterable(collection)
 
-for item in collection:
+for item in iterable:
     print(item)
