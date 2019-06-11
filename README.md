@@ -1,13 +1,7 @@
 # Generator Cheatsheet
 
 Minimal, functioning examples of generators in Python3.
-
-
-## Background
-
-Example of [iterable classes](iterable_class.py) and [iterable functions](iterable_function.py) using generators.
-
-Content for [this blog post](https://blog.kevinwmatthews.com/python-generator-cheat-sheet/).
+Supporting content for [this blog post](https://blog.kevinwmatthews.com/python-generator-cheat-sheet/).
 
 
 ## Setup
