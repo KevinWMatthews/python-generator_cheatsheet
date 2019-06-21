@@ -1,7 +1,7 @@
 # Generator Cheatsheet
 
 Minimal, functioning examples of generators in Python3.
-Supporting content for [this blog post](https://blog.kevinwmatthews.com/python-generator-cheat-sheet/).
+Supporting content for [this blog post](https://blog.kevinwmatthews.com/python-generator-cheatsheet/).
 
 
 ## Setup
